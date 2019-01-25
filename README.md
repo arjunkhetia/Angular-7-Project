@@ -1,6 +1,6 @@
-# Angular Project - 7.1.0
+# Angular Project - 7.2.2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.3.
 
 ## Development server
 
